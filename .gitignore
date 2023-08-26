@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#for this project
+.Ds_Store
+app
